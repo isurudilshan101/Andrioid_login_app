@@ -12,6 +12,7 @@
         android:layout_height="match_parent"
         android:scaleType="fitXY"
 
+        android:visibility="visible"
         tools:srcCompat="@tools:sample/backgrounds/scenic[13]" />
 
     <Button
